@@ -16,14 +16,14 @@ body {
 #main_header{
 
     background-image: url(../imgs/Records.jpg);
-    text-align: center;
+    /*text-align: center;*/
 }
 
 #main_title{
     font-family:'Segoe UI', Verdana, sans-serif;
     font-size: 100px;
     font-weight: bold;
-
+    text-align: center; /* modded as initially did not work due to uk-american english!
 }
 
 /* now define attributes for 3 main subsection headers */
